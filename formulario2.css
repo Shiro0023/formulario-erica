@@ -1,0 +1,23 @@
+.pagina1{
+	display: block;
+	font-size: 50px 0;
+	margin: 10px 20px;
+	color: #B03939;
+
+}
+form label, form p{
+	display: block;
+	font-size:20px;
+	margin:0 0 10px;
+	color: #B03939;
+} 
+
+h1{
+	color: #9F2929;
+}
+
+.pagina2{
+	display: inline-block;
+	color: black;
+	
+}
